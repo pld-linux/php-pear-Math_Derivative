@@ -5,7 +5,7 @@
 %define		_pearname	Math_Derivative
 
 Summary:	%{_pearname} - Calculate the derivative of a mathematical expression
-Summary(pl):	%{_pearname} - Obliczanie pochodnej wyraøenia matematycznego
+Summary(pl.UTF-8):   %{_pearname} - Obliczanie pochodnej wyra≈ºenia matematycznego
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
@@ -26,9 +26,9 @@ stored in a string.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa ta pozwala na obliczenie pochodnej wyraøenia przechowywanego w
-≥aÒcuchu znakÛw.
+%description -l pl.UTF-8
+Klasa ta pozwala na obliczenie pochodnej wyra≈ºenia przechowywanego w
+≈Ça≈Ñcuchu znak√≥w.
 
 Ta klasa ma w PEAR status: %{_status}.
 
