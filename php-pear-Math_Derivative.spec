@@ -5,7 +5,7 @@
 %define		_pearname	Math_Derivative
 
 Summary:	%{_pearname} - Calculate the derivative of a mathematical expression
-Summary(pl.UTF-8):   %{_pearname} - Obliczanie pochodnej wyrażenia matematycznego
+Summary(pl.UTF-8):	%{_pearname} - Obliczanie pochodnej wyrażenia matematycznego
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
