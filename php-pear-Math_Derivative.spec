@@ -9,7 +9,7 @@ Summary:	%{_pearname} - Calculate the derivative of a mathematical expression
 Summary(pl.UTF-8):	%{_pearname} - Obliczanie pochodnej wyrażenia matematycznego
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
-Release:	%{_rc}
+Release:	%{_rc}.1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{_rc}.tgz
