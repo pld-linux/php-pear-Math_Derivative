@@ -3,16 +3,16 @@
 %define		_subclass	Derivative
 %define		_status		beta
 %define		_pearname	Math_Derivative
-
-%define		_rc		RC1
+%define		subver		RC1
+%define		rel	1
 Summary:	%{_pearname} - Calculate the derivative of a mathematical expression
 Summary(pl.UTF-8):	%{_pearname} - Obliczanie pochodnej wyrażenia matematycznego
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
-Release:	%{_rc}.1
+Release:	%{subver}.%{rel}
 License:	PHP License
 Group:		Development/Languages/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{_rc}.tgz
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{subver}.tgz
 # Source0-md5:	06503fd9916d82c4201a5557dc1d895f
 URL:		http://pear.php.net/package/Math_Derivative/
 BuildRequires:	php-pear-PEAR
