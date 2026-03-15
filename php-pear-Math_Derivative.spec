@@ -3,7 +3,7 @@
 %define		_status		beta
 %define		_pearname	Math_Derivative
 %define		subver		RC1
-%define		rel	2
+%define		rel	3
 Summary:	%{_pearname} - Calculate the derivative of a mathematical expression
 Summary(pl.UTF-8):	%{_pearname} - Obliczanie pochodnej wyrażenia matematycznego
 Name:		php-pear-%{_pearname}
